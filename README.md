@@ -1,6 +1,6 @@
 # Computer Vision
 ETH Zurich 2019-2020 Computer Vision class homeworks.
-By Professor Marc Pollefeys, Professor Luc Van Gool and Professor Vittorio Ferrari
+Professor Marc Pollefeys, Professor Luc Van Gool and Professor Vittorio Ferrari
 
 1. Geometry and camera models
 2. Feature Extraction and Matching
