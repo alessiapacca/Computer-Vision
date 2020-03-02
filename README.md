@@ -16,3 +16,4 @@ Professor Marc Pollefeys, Professor Luc Van Gool and Professor Vittorio Ferrari
 
 
 
+Final average: 93.26/100
