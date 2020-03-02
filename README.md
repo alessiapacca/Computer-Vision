@@ -13,3 +13,6 @@ Professor Marc Pollefeys, Professor Luc Van Gool and Professor Vittorio Ferrari
 9. Shape from Silhouettes
 10. Object Category Recognition	
 11. Condensation Tracker	
+
+
+
