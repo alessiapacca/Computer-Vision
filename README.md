@@ -9,11 +9,11 @@ The list of the assignments is:
 1. Geometry and camera models <br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/camera.png" width="40%">.
 2. Feature Extraction and Matching <br>
-<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png" width="80%">.
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png" width="90%">.
 3. Particle Filter and Monte Carlo Localization	<br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/montecarli.png" width="60%">.
 4. Model Fitting and Multiple View Geometry	<br>
-<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/modelfitting.png" width="70%">.
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/modelfitting.png" width="80%">.
 5. Image Segmentation <br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/segmentation.png" width="60%">.
 6. Stereo Matching <br>
@@ -27,7 +27,7 @@ The list of the assignments is:
 10. Object Category Recognition	<br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/codebok.png" width="50%">.
 11. Condensation Tracker	<br>
-<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/cond_tracker.png" width="90%">.
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/cond_tracker.png" width="100%">.
 
 
 
