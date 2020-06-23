@@ -9,25 +9,25 @@ The list of the assignments is:
 1. Geometry and camera models <br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/camera.png" width="40%">.
 2. Feature Extraction and Matching <br>
-<img src=https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png" width="40%">.
-3. Particle Filter and Monte Carlo Localization	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/montecarli.png)
-4. Model Fitting and Multiple View Geometry	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/modelfitting.png)
-5. Image Segmentation
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/segmentation.png)
-6. Stereo Matching	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/stereomatching.png)
-7. Structure from Motion	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/structurefrommotion.png)
-8. Shape Context	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapecontext.png)
-9. Shape from Silhouettes
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapefromsil.png)
-10. Object Category Recognition	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/codebok.png)
-11. Condensation Tracker	
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/cond_tracker.png)
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png" width="40%">.
+3. Particle Filter and Monte Carlo Localization	<br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/montecarli.png" width="40%">.
+4. Model Fitting and Multiple View Geometry	<br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/modelfitting.png" width="40%">.
+5. Image Segmentation <br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/segmentation.png" width="40%">.
+6. Stereo Matching <br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/stereomatching.png" width="40%">.
+7. Structure from Motion <br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/structurefrommotion.png" width="40%">.
+8. Shape Context	<br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapecontext.png" width="40%">.
+9. Shape from Silhouettes<br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapefromsil.png" width="40%">.
+10. Object Category Recognition	<br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/codebok.png" width="40%">.
+11. Condensation Tracker	<br>
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/cond_tracker.png" width="40%">.
 
 
 
