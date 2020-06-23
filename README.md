@@ -6,7 +6,7 @@ The class was taken from the professors:
 - Professor Vittorio Ferrari
 
 The list of the assignments is:
-1. Geometry and camera models
+1. Geometry and camera models <br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/camera.png" width="40%">.
 2. Feature Extraction and Matching
 ![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png)
