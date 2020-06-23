@@ -7,7 +7,7 @@ The class was taken from the professors:
 
 The list of the assignments is:
 1. Geometry and camera models
-![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/camera.png)
+![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/camera.png | width=10)
 2. Feature Extraction and Matching
 ![alt text](https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png)
 3. Particle Filter and Monte Carlo Localization	
