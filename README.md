@@ -21,13 +21,13 @@ The list of the assignments is:
 7. Structure from Motion <br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/structurefrommotion.png" width="60%">.
 8. Shape Context	<br>
-<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapecontext.png" width="60%">.
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapecontext.png" width="40%">.
 9. Shape from Silhouettes<br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/shapefromsil.png" width="60%">.
 10. Object Category Recognition	<br>
-<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/codebok.png" width="60%">.
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/codebok.png" width="50%">.
 11. Condensation Tracker	<br>
-<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/cond_tracker.png" width="40%">.
+<img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/cond_tracker.png" width="70%">.
 
 
 
