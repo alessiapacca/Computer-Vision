@@ -7,11 +7,11 @@ The class was taken from the professors:
 
 The list of the assignments is:
 <p align="center">
-1. Geometry and camera models <br>
+** 1. Geometry and camera models **<br>
   <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/camera.png" width="40%"/>
 </p>
-2. Feature Extraction and Matching <br>
 <p align="center">
+** 2. Feature Extraction and Matching ** <br>
 <img src="https://github.com/alessiapacca/Computer-Vision-/blob/master/imgs/featureextraction.png" width="90%"/>
 </p>
 <p align="center">
