@@ -5,7 +5,7 @@ The class was taken from the professors:
 - Luc Van Gool
 - Professor Vittorio Ferrari
 
-The list of the assignments is: 
+The topics of the assignments are the following: 
 <br>
 <p align="center">
 1. Geometry and camera models <br>
