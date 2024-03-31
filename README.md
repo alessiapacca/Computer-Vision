@@ -93,6 +93,3 @@ The topics of the assignments are the following:
 </p>
 <br>
 <br>
-
-
-Final average: 93.26/100
