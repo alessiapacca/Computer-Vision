@@ -1,6 +1,6 @@
 # Computer Vision
-ETH Zurich 2019-2020 Computer Vision class homeworks.
-Professor:
+ETH Zurich 2019-2020 Computer Vision class homeworks.<br>
+Professors:
 - Marc Pollefeys
 - Luc Van Gool
 - Vittorio Ferrari
