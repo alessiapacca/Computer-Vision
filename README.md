@@ -1,9 +1,9 @@
 # Computer Vision
-ETH Zurich 2019-2020 Computer Vision class homeworks, written in MATLAB.
-The class was taken from the professors:
+ETH Zurich 2019-2020 Computer Vision class homeworks.
+Professor:
 - Marc Pollefeys
 - Luc Van Gool
-- Professor Vittorio Ferrari
+- Vittorio Ferrari
 
 The topics of the assignments are the following: 
 <br>
